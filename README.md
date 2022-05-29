@@ -5,7 +5,7 @@
 - ✨ I have strong skills in object-oriented programming and the use of abstract data types.
 - 🔧 I experienced in working with data structures and modern algorithms.
 - 🔧 I created single and multi page responsive web projects.
-- - I have Responsive Web Design Certification and JavaScript Algorithms and Data Structures Certification.
+- I have Responsive Web Design Certification and JavaScript Algorithms and Data Structures Certification.
 - ☎️ You can contact me with this mail emrergeldi@gmail.com
 
 <!---
