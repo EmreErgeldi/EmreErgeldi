@@ -1,7 +1,7 @@
 👋 Hi, I’m Emre
 - 👀 I'm currently studying Computer Engineering at Gazi University.
 - 🔧 I experienced programming with C, C++, C#, Java, JavaScript.
-- ✨ I am very experinced with HTML CSS and JavaScript.
+- ✨ I developed web projects with HTML, CSS and JavaScript; used CSS preprocessors such as SASS, LESS and JavaScript libraries such as React, jQuery in these projects;       worked with REST APIs.
 - ✨ I have strong skills in object-oriented programming and the use of abstract data types.
 - 🔧 I experienced in working with data structures and modern algorithms.
 - 🔧 I created single and multi page responsive web projects.
