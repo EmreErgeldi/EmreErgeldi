@@ -1,5 +1,5 @@
 👋 Hi, I’m Emre
-- 👀 I am Computer Science student and Software Developer at Siemens.
+- 👀 I am Software Developer at Siemens.
 - 🔧 I experienced programming with C, C++, C#, Java, JavaScript.
 - ✨ I developed web projects with HTML, CSS and JavaScript; used CSS preprocessors such as SASS, LESS and JavaScript libraries such as 
       React, jQuery in these projects; worked with REST APIs.
